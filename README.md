@@ -96,3 +96,17 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+## How To Use Project?
+ 
+Folder                  Function
+
+Data                    Virtual Database
+  Product_data          All Products
+  Shipping_Data         Shipping Time / Items
+  User_Data             User's All Data ( Usernames, Passwords, Emails... )
+Serv                    Server For Application
+  Cripted Pass          Cripted User Passwrods Service
+
+
