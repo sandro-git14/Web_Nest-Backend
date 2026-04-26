@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "'Fira Code', Consolas, monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorWidth": 2,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Night Owl",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', 'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.inlineSuggest.enabled": false,
+    "editor.tabCompletion": "off"
+}
