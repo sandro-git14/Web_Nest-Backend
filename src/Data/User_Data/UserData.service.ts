@@ -5,24 +5,24 @@ export class UserData {
     GetUserData() {
     return  {
         "Luka_Abaloidze": {
-            "User_Name": "Laka425",
+            "User_Name": "laka425",
             "Email": "lukaabaloidze@gmail.com",
             "Password": "lukavar123me",
             "Real_Name": "Luka Abaloidze",
             "Orders": {
-                "Order[1]": {
+                "1": {
                     "Product_Name": "Shampoo" 
                 },
 
-                "Order[2]": {
+                "2": {
                     "Product_Name": "Hiking Boots"
                 },
                 
-                "Order[3]": {
+                "3": {
                     "Product_Name": "Rock Climbing Boots"
                 },
 
-                "Order[Latest]": {
+                "latest": {
                     "Product_Name": "Weather Bottle"
                 }
             }

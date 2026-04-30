@@ -1,1 +1,1 @@
-GET http://localhost:3000/serv/Get_All_Users
+GET http://localhost:3000/serv/Get_Product_ByName/FootBall

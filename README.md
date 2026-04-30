@@ -118,3 +118,11 @@ Data                    Virtual Database
 Serv                    Server For Application
   Cripted Pass          Cripted User Passwrods Service
 
+Data                    Virtual Database
+  Product_data          All Products
+  Shipping_Data         Shipping Time / Items
+  User_Data             User's All Data ( Usernames, Passwords, Emails... )
+Serv                    Server For Application
+  Cripted Pass          Cripted User Passwrods Service
+
+
